@@ -1,0 +1,18 @@
+objects:
+  - gelas
+  - apel
+  - botol
+  - piring
+  - baju
+
+locations:
+  - dapur
+  - meja
+  - rak
+  - lemari
+  - ruangtamu
+  - kamar
+  - jendela
+  - koridor
+  - pintu
+
